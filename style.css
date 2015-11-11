@@ -1,0 +1,25 @@
+  body {
+    background-color: #F0F8FF;
+  }
+  h1 {
+    font-family: "Tw Cen MT", "Century Gothic", Arial;
+    text-align: center;
+  }
+  h2 {
+    font-family:"Tw Cen MT", "Century Gothic", Arial;
+    text-align: center;
+  }
+  h3 {
+    font-family:"Tw Cen MT", "Century Gothic", Arial;
+    text-align: center;
+    color: black;
+  }
+  p {
+    font-family:"Tw Cen MT", "Century Gothic", Arial;
+    text-align: left;
+  }
+  p:hover {
+    background-color: #FF6040;
+    size: 20px;
+    color: #F0F8FF;
+  }
